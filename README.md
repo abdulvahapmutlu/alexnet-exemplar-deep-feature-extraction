@@ -1,4 +1,4 @@
-#Pretrained CNN-based Exemplar Deep Feature Extraction
+# Pretrained CNN-based Exemplar Deep Feature Extraction
 This repository contains code for extracting deep features from images using multiple pre-trained deep learning models, including AlexNet. The extracted features are then processed and selected using statistical methods for subsequent classification tasks. The code also includes functionality for handling sub-images and training a classifier.
 
 ## Features
