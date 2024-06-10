@@ -1,4 +1,4 @@
-# AlexNet Exemplar Deep Feature Extraction
+#Pretrained CNN-based Exemplar Deep Feature Extraction
 This repository contains code for extracting deep features from images using multiple pre-trained deep learning models, including AlexNet. The extracted features are then processed and selected using statistical methods for subsequent classification tasks. The code also includes functionality for handling sub-images and training a classifier.
 
 ## Features
@@ -24,8 +24,8 @@ This repository contains code for extracting deep features from images using mul
 
 1. *Clone the Repository*:
    sh
-   git clone https://github.com/abdulvahapmutlu/alexnet-exemplar-deep-feature-extraction.git
-   cd alexnet-exemplar-deep-feature-extraction
+   git clone https://github.com/abdulvahapmutlu/pretrained-cnn-based-exemplar.git
+   cd pretrained-cnn-based-exemplar
    
 
 2. *Prepare Your Image Dataset*: Place your image files in the repository directory. Ensure the filenames contain labels and indices as required.
@@ -37,4 +37,4 @@ This repository contains code for extracting deep features from images using mul
 
 4. *Run the Script*:
    sh
-   python alexnet_exemplar.py
+   python pre_cnnbased_exemplar.py
